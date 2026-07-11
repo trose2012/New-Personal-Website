@@ -30,3 +30,8 @@ A big thank you to the creators of these websites. Their websites gave me inspir
 
 ## 🤖 AI Usage Declaration
 I used no AI in this Readme.
+
+## ⭐ Stardance
+This website was made and submitted to [Stardance](https://stardance.space).
+
+[View Submission](https://stardance.hackclub.com/projects/29489)
