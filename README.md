@@ -27,3 +27,6 @@ A big thank you to the creators of these websites. Their websites gave me inspir
 - [Alimad](https://alimad.co/) - Some more Status Stuff
 - [Sander](https://sander.tf/) - Navbar
 - [BobDaHacker](https://bobdahacker.com/) - Theme and Some Animations
+
+## 🤖 AI Usage Declaration
+I used no AI in this Readme.
